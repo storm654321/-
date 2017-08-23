@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "刮畫產生器", "刮畫產生器\刮畫產生器.vcxproj", "{9D5C5B2D-F201-49EF-B909-4C0F179FD327}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "素描風格", "素描風格\素描風格.vcxproj", "{5CA62EE6-9FED-4EAC-8742-DB20F01A64B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D5C5B2D-F201-49EF-B909-4C0F179FD327}.Debug|x64.ActiveCfg = Debug|x64
+		{9D5C5B2D-F201-49EF-B909-4C0F179FD327}.Debug|x64.Build.0 = Debug|x64
+		{9D5C5B2D-F201-49EF-B909-4C0F179FD327}.Debug|x86.ActiveCfg = Debug|Win32
+		{9D5C5B2D-F201-49EF-B909-4C0F179FD327}.Debug|x86.Build.0 = Debug|Win32
+		{9D5C5B2D-F201-49EF-B909-4C0F179FD327}.Release|x64.ActiveCfg = Release|x64
+		{9D5C5B2D-F201-49EF-B909-4C0F179FD327}.Release|x64.Build.0 = Release|x64
+		{9D5C5B2D-F201-49EF-B909-4C0F179FD327}.Release|x86.ActiveCfg = Release|Win32
+		{9D5C5B2D-F201-49EF-B909-4C0F179FD327}.Release|x86.Build.0 = Release|Win32
+		{5CA62EE6-9FED-4EAC-8742-DB20F01A64B7}.Debug|x64.ActiveCfg = Debug|x64
+		{5CA62EE6-9FED-4EAC-8742-DB20F01A64B7}.Debug|x64.Build.0 = Debug|x64
+		{5CA62EE6-9FED-4EAC-8742-DB20F01A64B7}.Debug|x86.ActiveCfg = Debug|Win32
+		{5CA62EE6-9FED-4EAC-8742-DB20F01A64B7}.Debug|x86.Build.0 = Debug|Win32
+		{5CA62EE6-9FED-4EAC-8742-DB20F01A64B7}.Release|x64.ActiveCfg = Release|x64
+		{5CA62EE6-9FED-4EAC-8742-DB20F01A64B7}.Release|x64.Build.0 = Release|x64
+		{5CA62EE6-9FED-4EAC-8742-DB20F01A64B7}.Release|x86.ActiveCfg = Release|Win32
+		{5CA62EE6-9FED-4EAC-8742-DB20F01A64B7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
